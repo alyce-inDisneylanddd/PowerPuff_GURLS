@@ -9,3 +9,9 @@
     cursor: pointer;
     transition: background-color 0.3s, border-color 0.3s;
 }
+
+.button{
+    background-color: #6b3468;
+    border-color: #6b3468;
+}
+

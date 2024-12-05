@@ -1,4 +1,4 @@
-.hover-button {
+.button {
     background-color: #ff66b2;
     color: white;
     font-size: 16px;
@@ -8,9 +8,4 @@
     border-radius: 25px;
     cursor: pointer;
     transition: background-color 0.3s, border-color 0.3s;
-}
-
-.hover-button:hover {
-    background-color: #6b3468;
-    border-color: #6b3468;
 }
